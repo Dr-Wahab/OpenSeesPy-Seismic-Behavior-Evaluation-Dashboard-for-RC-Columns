@@ -1,5 +1,4 @@
-# OpenSeesPy-Seismic-Behavior-Evaluation-Dashboard-for-RC-Columns
-This repository contains an open-source structural engineering pipeline developed in Python using OpenSeesPy and Matplotlib. The framework performs a advanced nonlinear cyclic displacement-control analysis of a cantilever reinforced concrete (RC) column and generates a comprehensive, publication-quality performance dashboard.  
+
 # OpenSeesPy Seismic Behavior Evaluation Dashboard for RC Columns
 
 This repository contains an open-source structural engineering pipeline developed in Python using **OpenSeesPy** and **Matplotlib**. The framework performs an advanced nonlinear cyclic displacement-control analysis of a cantilever reinforced concrete (RC) column and generates a comprehensive, publication-quality performance dashboard.
